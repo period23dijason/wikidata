@@ -3,7 +3,7 @@ CMPT 353 D1 Project - On Wikidata, Movies, and Success
 by Jason Wang, Matthew Chan
 
 <b>Required libraries</b>
-import numpy as np<br>
+<br>import numpy as np<br>
 import pandas as pd<br>
 import sys<br>
 import matplotlib<br>
