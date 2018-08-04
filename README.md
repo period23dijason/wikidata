@@ -22,8 +22,8 @@ lowess = sm.nonparametric.lowess<br>
 from scipy import stats<br>
 
 <b>Commands</b>
-You can open the ipnyb file using Jupyter or run the python file:
-$ python <file_name>
+You can open the ipnyb file using Jupyter:
+$ jupyter-notebook
 
 <b>Files produced/expected</b>
 Results should be printed as usual or as separate diagram windows. Please refer to PDF file for a print preview of what was returned to us on Jupyter in our environment.
